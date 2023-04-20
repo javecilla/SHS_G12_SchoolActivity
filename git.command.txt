@@ -1,0 +1,7 @@
+git status
+git add .
+
+git commit -m "Added Inventory System Project"
+
+git push https://github.com/javecilla/InventorySystem.git
+Account Token -> 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
